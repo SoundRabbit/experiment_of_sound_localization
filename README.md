@@ -4,6 +4,6 @@
 
 The exprement of sound localization.
 
-# 仕様言語 / Programming language
+## 仕様言語 / Programming language
 
 Faust
