@@ -6,4 +6,12 @@ The exprement of sound localization.
 
 ## 仕様言語 / Programming language
 
-Faust
+C++
+
+## ファイル構成 / Files
+
+### Main.cpp
+
+書きなぐりのソースコード
+
+untranslated
